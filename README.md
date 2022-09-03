@@ -1,2 +1,2 @@
 # Outlook-AutoLogin
-Autu login to outlook.com by Python
+Auto login to outlook.com by Python
